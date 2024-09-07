@@ -3,3 +3,7 @@
 
 
 # Домашнее задание к занятию «Композиция компонентов».
+
+
+
+https://markovanton1986.github.io/decomposition/
